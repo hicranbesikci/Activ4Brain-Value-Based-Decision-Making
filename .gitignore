@@ -1,15 +1,26 @@
-# MATLAB autosave files
-*.asv
+# Participant and analysis data
+*.mat
+*.csv
+*.xlsx
+*.xls
+*.sav
+
+# Machine-specific data paths
+config_local.m
 
 # MATLAB temporary files
+*.asv
 *.m~
-
-# MATLAB editor backups
 *.autosave
-
-# MATLAB cache
 slprj/
 codegen/
 
 # macOS system files
 .DS_Store
+
+# Generated outputs
+outputs/
+results/
+
+# Reference documents not distributed with the code
+*.pdf

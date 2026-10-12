@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata in this file."
+type: software
+title: "Improvement in value-based decision-making through a combined cognitive training and aerobic exercise program (Activ4Brain) in older adults"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/hicranbesikci/Activ4Brain-Value-Based-Decision-Making"
+authors:
+  - family-names: "Beşikci"
+    given-names: "Hicran"
+  - family-names: "Akalp"
+    given-names: "Kaan"
+  - family-names: "Vasconcelos"
+    given-names: "Matilde"
+  - family-names: "Rama"
+    given-names: "Luís"
+  - family-names: "Sousa e Silva"
+    given-names: "Ana Rita"
+  - family-names: "Zamfir"
+    given-names: "Elena"
+  - family-names: "Branquinho Gomes"
+    given-names: "Beatriz"
+  - family-names: "Teixeira"
+    given-names: "Ana Maria"
+  - family-names: "Castelo-Branco"
+    given-names: "Miguel"
+  - family-names: "Ribeiro"
+    given-names: "Maria José"
